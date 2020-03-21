@@ -1,15 +1,20 @@
 A GUI to reduce the pain of labeling texts into categories, sentiments or whatelse.
 
 TODO 
->able user to set its own classes --
->allow back/forward texts --
->better arrangement for buttons --
+>able user to set its own classes
+
+>allow back/forward texts
+
+>better arrangement for buttons
+
 >allow other files (xls, dta...)
 
 
 What it does:
 > It labels your text (tweets, or w/e) from a csv file.
+
 > It allows you to save your progress at any moment.
+
 > It continues from where you have stopped. 
 
 
